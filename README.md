@@ -1,5 +1,7 @@
 ## react-head-meta
 
+![npm](https://img.shields.io/npm/dm/react-head-meta?label=npm%20downloads)
+
 A simple library for changing page meta tags.
 
 ## Installation
@@ -29,7 +31,7 @@ function App() {
 	return (
 		<div>
 			<Title title="Home page | MyApp" />
-			<Description title="Home page of my new app" />
+			<Description description="Home page of my new app" />
 			<h1>Home page</h1>
 		</div>
 	);

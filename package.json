@@ -1,6 +1,6 @@
 {
 	"name": "react-head-meta",
-	"version": "1.0.0",
+	"version": "1.0.1",
 	"description": "A simple library for changing page meta tags.",
 	"main": "dist/cjs/index.js",
 	"module": "dist/esm/index.js",
